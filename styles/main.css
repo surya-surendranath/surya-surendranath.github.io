@@ -7,6 +7,6 @@ body {
 }
 
 #p1 {
-  text-align: right;
+  margin-left: -20px;
   font-size: 25px;
 }
