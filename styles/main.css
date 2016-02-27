@@ -7,6 +7,10 @@ body {
 }
 
 #p1 {
-  margin-left: -20px;
+  margin-left: 40px;
+  font-size: 25px;
+}
+#p2 {
+  margin-left: 42px;
   font-size: 25px;
 }
