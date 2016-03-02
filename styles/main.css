@@ -1,6 +1,9 @@
 body {
   background-image: url("HP_paper.gif");
 }
+a{
+  text-decoration: none;
+}
 #header {
     background-color:black;
     color:white;
@@ -15,7 +18,7 @@ body {
     float:left;
     padding:10px;        
 }
-#section {
+#section {s
     width:350px;
     float:left;
     padding:20px;    
