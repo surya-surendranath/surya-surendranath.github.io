@@ -18,12 +18,17 @@ a{
     float:left;
     
 }
-#section {
+#section1 {
     width:660px;
     float:center;
     padding:100px; 
-background-color: #BC8F8F;
+background-color: white;
 }
+#section1 {
+    width:660px;
+    float:center;
+    padding:200px; 
+background-color: white;
 #p1
 {
   font-size: 24px;
