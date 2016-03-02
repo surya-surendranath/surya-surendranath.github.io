@@ -8,10 +8,10 @@ body {
     padding:5px;
 }
 #nav {
-    line-height:60px;
+    line-height:100px;
     background-color:#FFEBCD;
     height:300px;
-    width:100px;
+    width:200px;
     float:left;
     padding:5px;        
 }
