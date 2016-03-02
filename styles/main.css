@@ -11,9 +11,9 @@ body {
     line-height:100px;
     background-color:#FFEBCD;
     height:300px;
-    width:200px;
+    width:150px;
     float:left;
-    padding:5px;        
+    padding:10px;        
 }
 #section {
     width:350px;
