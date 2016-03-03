@@ -1,61 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <head>
+
 <link rel="stylesheet" type="text/css" href="../styles/main.css">
-<style>
-*{
-  box-sizing: border-box;
-}
-.row:after {
-    content: "";
-    clear: both;
-    display: block;
-}
-[class*="col-"] {
-    float: left;
-    padding: 15px;
-}
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
-</style>
-</head>
-<body>
+    <title>REFLECTION </title>
+    
 
-<div id="header">
-<h1>My BLOG</h1>
-</div>
-
-<div id="nav">
-<ul style="list-style-type:none">
-<br>
-<li><a id="p1" href="../index.html"  >HOME</a></li>
-<br>
-<br>
-<br>
-<li><a id="p1" href="blog/c1-reflection-blog"  >MY REFLECTION</a></li>
-<br>
-<br>
-<br>
-
-<li> <a id="p2" href="c1-time-and-habit-blog"  >TIME AND HABIT</a></li>
-
-</ul>
-</div>
-
-<div id="section1" >
-<br>
-  <h1 id="h1" > TIME AND HABIT<br> </h1>
+    
+  </head>
+  
+  <body>
+   <h1 id="h1" > TIME AND HABIT<br> </h1>
     <p> </p>
    <p id="p3"> <br>Which time and habit technique did you try?</p>
     <p id="p4">
@@ -76,12 +31,5 @@
     I will experiment the pomodoro techniques with 25 minute time boxes daily. I will make minimun 5 hours everyday to spend on assignments with this<br> technique, which hopefully help me to complete the assignments before the deadlines.
    </p>
   
-</div>
-
-<div id="footer">
-Copyright@suryasnath.com
-</div>
-
-
-</body>
+  </body>
 </html>
