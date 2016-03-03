@@ -31,11 +31,12 @@ background-repeat:no-repeat;
 
 #section1
 {
- width:950px;
+ width:1050px;
 float:right;
-    font-style: bold;
+   
 background-image: url("ssn.jpg");
 background-repeat:no-repeat;
+text-align: justify;
 
 }
 #p1
