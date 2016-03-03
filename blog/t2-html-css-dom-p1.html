@@ -1,58 +1,90 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="../styles/main.css">
 <style>
-#header {
-    background-color:black;
-    color:white;
-    text-align:center;
-    padding:5px;
+*{
+  box-sizing: border-box;
 }
-#nav {
-    line-height:30px;
-    background-color:#eeeeee;
-    height:300px;
-    width:100px;
-    float:left;
-    padding:5px;        
+.row:after {
+    content: "";
+    clear: both;
+    display: block;
 }
-#section {
-    width:350px;
-    float:left;
-    padding:10px;    
+[class*="col-"] {
+    float: left;
+    padding: 15px;
 }
-#footer {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-   padding:5px;    
-}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
 </style>
 </head>
 <body>
 
 <div id="header">
-<h1>City Gallery</h1>
+<h1>My BLOG</h1>
 </div>
 
 <div id="nav">
-London<br>
-Paris<br>
-Tokyo
+<ul style="list-style-type:none">
+<br>
+<li><a id="p1" href="../index.html"  >HOME</a></li>
+<br>
+<br>
+<br>
+<li><a id="p1" href="blog/c1-reflection-blog"  >MY REFLECTION</a></li>
+<br>
+<br>
+<br>
+
+<li> <a id="p2" href="c1-time-and-habit-blog"  >TIME AND HABIT</a></li>
+<br>
+<br>
+<br>
+<li><a id="p1" href="t2-html-css-dom-p1"  >UDACITY REFLECTION</a></li>
+</ul>
 </div>
 
-<div id="section">
-<h2>abc</h2>
-<p>London is the capital city of England. It is the most populous city in the United Kingdom,
-with a metropolitan area of over 13 million inhabitants.</p>
-<p>Standing on the River Thames, London has been a major settlement for two millennia,
-its history going back to its founding by the Romans, who named it Londinium.</p>
+<div id="section1" >
+<br>
+ <h1 > UDACITY REFLECTION - PART 1<br> </h1>
+    <p> </p>
+   <p > <br><b>1.&nbsp;Can you think of an analogy to describe HTML,CSS and the DOM? How would you describe to your non-technical friend?<b/></p>
+    <p ><b>
+      HTML is what is on your website (headings, lists, tables)<br>
+
+CSS is what those things look like (borders, colours, font sizes)<br>
+
+DOM is how you access those things through javascript (getting nodes, adding new elements, changing their style)</b>
+   </p>
+    <p > <b>2.&nbsp;What is meant by boxifying design?</b></p>
+    <p >
+     <b>Boxifying design is designing the websites using a concept of boxes. Before developing the websites, we need to think about each elements, and those elements are made into boxes. The technique help the developer to arrange the elements and structure the code perfectly anytime when they use.</b>
+   </p>
+   
+    <p > <b>3.&nbsp;What is the box model?</b></p>
+    <p >
+    <b>All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout.
+The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content.</b> 
+   </p>
+    
 </div>
 
 <div id="footer">
-want to add
+Copyright@suryasnath.com
 </div>
+
 
 </body>
 </html>
