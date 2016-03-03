@@ -31,9 +31,13 @@ background-repeat:no-repeat;
 
 #section1
 {
-background-image: url("bv.jpg");
-background-repeat:no-repeat;  
-float:right;
+ width:950px;
+    float:right;
+    
+font-style: bold;
+background-image: url("nn.jpg");
+background-repeat:no-repeat;
+
 }
 #p1
 {
