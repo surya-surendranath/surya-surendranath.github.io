@@ -31,8 +31,8 @@ background-repeat:no-repeat;
 #section1
 {
     width:950px;
-    float:right;
-    padding:350px; 
+    float:center;
+    padding:250px; 
 font-style: bold;
 background-image: url("ui.png");
 background-repeat:no-repeat;
