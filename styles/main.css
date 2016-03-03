@@ -31,8 +31,9 @@ background-repeat:no-repeat;
 
 #section1
 {
-background-image: url("ssn.jpg");
+background-image: url("bv.jpg");
 background-repeat:no-repeat;  
+padding:200px; 
 }
 #p1
 {
