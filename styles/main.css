@@ -30,8 +30,8 @@ background-repeat:no-repeat;
 }
 #section1
 {
-    width:950px;
-    float:center;
+    width:1050px;
+    float:right;
     padding:255px; 
 font-style: bold;
 background-image: url("ui.png");
