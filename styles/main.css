@@ -20,11 +20,12 @@ a{
 }
 #section
 {
-    width:850px;
-    float:right;
-    padding:100px; 
+    width:950px;
+    float:center;
+    padding:200px; 
 background-color: #e6e6ff;
-background-image: url("nn.jpg")
+background-image: url("nn.jpg");
+background-repeat:no-repeat;
 
 }
 
