@@ -28,6 +28,16 @@ background-image: url("nn.jpg");
 background-repeat:no-repeat;
 
 }
+#section
+{
+    width:950px;
+    float:right;
+    padding:100px; 
+font-style: bold;
+background-image: url("ssn.jpg");
+background-repeat:no-repeat;
+
+}
 
 #p1
 {
