@@ -20,9 +20,9 @@ a{
 }
 #section
 {
-    width:550px;
+    width:650px;
     
-    
+  float: right;  
 font-style: bold;
 background-image: url("nn.jpg");
 background-repeat:no-repeat;
