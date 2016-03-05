@@ -31,9 +31,9 @@ background-repeat:no-repeat;
 
 #section1
 {
- width:980px;
-float:right;
- padding:100px;   
+  width:650px;
+    height:450px;
+  float: right  
 background-image: url("ssn.jpg");
 background-repeat:no-repeat;
 text-align: justify;
