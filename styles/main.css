@@ -85,13 +85,8 @@ font-size: 20px;
 
 #section1
 {
-width:850px;
-height:600px;
-padding:10px;
-background-image: url("ssn.jpg");
-background-repeat:no-repeat;
+float:center;
 text-align: justify;
-
 
 }
 #p1
