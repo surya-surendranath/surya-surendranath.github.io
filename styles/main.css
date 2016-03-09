@@ -23,13 +23,14 @@ a{
 font-style: bold;
 text-align: center;
 float:center;
-padding-left: 80px;
 }
 #p2
 {
 font-style: bold;
 text-align: justify;
 float:center;
+text-indent: 80px;
+}
 }
 #p3
 {
