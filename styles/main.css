@@ -13,7 +13,7 @@ a{
     padding:5px;
 }
 #nav {
-    margin-bottom: 1px;
+    
     background-color:#BC8F8F;
     height:600px;
     width:340px;
@@ -45,6 +45,7 @@ text-align: justify;
   color:black;
   font-weight: bold;
   float:left;
+  margin-bottom: 1px;
 }
 #p2
 {
