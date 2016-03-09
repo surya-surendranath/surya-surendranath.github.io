@@ -14,10 +14,11 @@
   <div id="header">
     <h1>My BLOG</h1>
   </div>
-
+    <!--use semantic <nav></nav> element here, instead of <div id=nav>-->
     <div id="nav">
       <ul style="list-style-type:none"><br>
       
+      <!--you are using <br> elements to style the page (create more space below the text. This is bad practice. Use CSS to select <li> elements and increase the bottom margin size!-->
        <li><a id="p1" href="../index.html"  >HOME</a></li><br><br><br>
 
        <li><a id="p1" href="blog/c1-reflection-blog"  >MY REFLECTION</a></li><br><br><br>
@@ -25,13 +26,15 @@
        <li> <a id="p2" href="blog/c1-time-and-habit-blog"  >TIME AND HABIT</a></li><br><br><br>
        <li><a id="p1" href="blog/t2-html-css-dom-p1"  >UDACITY REFLECTION1</a></li><br><br><br>
        <li><a id="p1" href="blog/t2-html-css-dom-p2 "  >UDACITY REFLECTION2</a></li><br><br><br>
+       <!--again, use CSS to style text, rather than &nbsp; - a google search for "CSS space between words" found http://www.w3schools.com/cssref/pr_text_word-spacing.asp, which is the CSS you need-->
        <li> <a id="p1" href="blog/c2-emotional-intelligence"  >EMOTIONAL &nbsp;&nbsp;&nbsp;INTELLIGENCE</a></li>
       </ul>
     </div>
 
 
-
+      <!--use <section></section> instead of below-->
       <div id="section" >
+       <!--never add 'inline' CSS - never use the 'style' element attribute. the CSS below should be in your CSS file. how can you select that element?-->
        <img src="IMG1.png" alt="HTML537 Icon" onclick="enlarge()" id="x" style="float:center;height:220px;width:180px;border:3px solid black;">
        <h2> <i><b>&nbsp;&nbsp;&nbsp;&nbsp;SURYA S NATH</b></i></h2>
        <p><i><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am Surya S Nath.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I live in Wellington. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a very passionate and an ambitious person.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My ambition is to become a software developer. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy being challenged and strive for the best.</i></b></p>
