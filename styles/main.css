@@ -27,15 +27,16 @@ float:center;
 #p2
 {
 font-style: bold;
-text-align: justify;
+
 float:center;
-text-indent: 80px;
-}
+text-indent: 180px;
+
 }
 #p3
 {
 font-style: bold;
 text-align: justify;
+text-indent: 180px;
 }
 #p4
 {
