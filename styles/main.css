@@ -15,8 +15,7 @@ a{
 #nav {
     
     background-color:#BC8F8F;
-    height:600px;
-    width:340px;
+    
     float:left;
     
 }
@@ -24,9 +23,6 @@ a{
 {
    
 font-style: bold;
-
-background-image: url("nn.jpg");
-background-repeat:no-repeat;
 
 }
 
