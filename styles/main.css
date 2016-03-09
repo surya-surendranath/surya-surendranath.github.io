@@ -19,6 +19,10 @@ a{
     float:left;
     position:relative;
 }
+#section
+{
+  border: 20px #BC8F8F;
+}
 .img1
 {
   max-height: 100%;
