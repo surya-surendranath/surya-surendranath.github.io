@@ -104,6 +104,15 @@ text-align: justify;
   margin-top: 5px;
 
 }
+#p0
+{
+ font-size: 24px;
+  color:black;
+  font-weight: bold;
+  float:left;
+  margin-bottom: 30px;
+  margin-top: 5px; 
+}
 
 #footer
 {
