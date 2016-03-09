@@ -23,7 +23,7 @@ a{
 {
   max-height: 100%;
   height:auto;
-  float:right;
+  float:center;
   border-radius: 50%;
 
 }
@@ -32,7 +32,7 @@ a{
 font-style: bold;
 text-align: center;
 float:center;
-margin-bottom: 100px;
+margin-bottom: 200px;
 font-size:30px;
 }
 #p2
