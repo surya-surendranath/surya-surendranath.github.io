@@ -25,6 +25,7 @@ a{
    
 font-style: bold;
 text-align: center;
+float:center;
 
 }
 #p2
@@ -61,10 +62,7 @@ text-align: justify;
   font-weight: bold;
   float:left;
 }
-#para
-{
-  float
-}
+
 #footer
 {
   background-color: #800000;
