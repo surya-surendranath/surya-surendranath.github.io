@@ -16,14 +16,14 @@ a{
     background-color:#BC8F8F;
     height:600px;
     width:340px;
-    float:center;
+    float:left;
     position:relative;
 }
 .img1
 {
   max-height: 100%;
   height:auto;
-  float:right;
+  float:center;
   border-radius: 50%;
 }
 #h2
