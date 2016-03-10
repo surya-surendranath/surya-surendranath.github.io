@@ -60,7 +60,7 @@ li a:hover:not(.active) {
 {
   max-height: 100%;
   height:auto;
-  
+
 }
 #h2
 {  
@@ -124,7 +124,7 @@ padding:300px;
 clear:both;
 text-align: center;
 font-size: 15px;
-
+background-image: url("bb.jpg");
 background-repeat: no-repeat;
 max-width:100%;
 height:auto;
