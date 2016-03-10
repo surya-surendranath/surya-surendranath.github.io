@@ -3,7 +3,7 @@ body {
   background-image:url("bb.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  
+
 }
 
 a{
@@ -123,7 +123,7 @@ background-color: #e6f2ff;
 }
 #footer
 {
-padding:300px;
+
 clear:both;
 text-align: center;
 font-size: 15px;
