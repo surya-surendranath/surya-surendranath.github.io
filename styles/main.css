@@ -60,11 +60,7 @@ li a:hover:not(.active) {
 {
   max-height: 100%;
   height:auto;
-  float:right;
-  border-radius: 50%;
-  border-style: solid;
-  border-width: 10px;
-  border-color: #BC8F8F;
+  
 }
 #h2
 {  
@@ -124,11 +120,11 @@ background-color: #e6f2ff;
 }
 #footer
 {
-padding:600px;
+padding:300px;
 clear:both;
 text-align: center;
 font-size: 15px;
-background-image:url("bb.jpg");
+
 background-repeat: no-repeat;
 max-width:100%;
 height:auto;
