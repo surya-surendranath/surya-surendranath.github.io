@@ -72,6 +72,7 @@ height:auto;
 #nav1{
   float:right;
   margin-right: 20px;
+
   
 }
 #section
@@ -133,10 +134,10 @@ font-size: 20px;
   
 float:center;
 font-style: bold;
-margin-left: 100px;
-margin-right: 100px;
+margin-left: 50px;
+margin-right: 50px;
 background-color: #e6f2ff;
-margin-top:100px;
+margin-top:150px;
 }
 #p1
 {
