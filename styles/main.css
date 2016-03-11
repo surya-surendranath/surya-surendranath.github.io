@@ -46,11 +46,12 @@ height:auto;
 
 .dropdown:hover .dropdown-content {
     display: block;
-    float:right;
+
 }
 
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
+    float:right;
 }
 
 
