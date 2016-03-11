@@ -83,7 +83,9 @@ height:auto;
 {
   height:640px;
   width:1300px;
+  width:100%;
 float:left;
+position:relative;
 }
 #h2
 {  
