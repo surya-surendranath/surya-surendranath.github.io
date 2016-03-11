@@ -47,7 +47,7 @@ height:auto;
 .dropdown:hover .dropdown-content {
     display: block;
     float:right;
-
+padding:5px;
 }
 
 .dropdown:hover .dropbtn {
