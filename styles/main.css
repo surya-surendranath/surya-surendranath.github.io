@@ -123,9 +123,10 @@ font-size: 20px;
 }
 #section1
 {
-float:center;
+  padding:20px;
+float:left;
 font-style: bold;
-text-align: center;
+text-align: justify;
 background-color: #e6f2ff;
 }
 #p1
