@@ -132,13 +132,13 @@ font-size: 20px;
 #section1
 {
   
-float:left;
+float:center;
 font-style: bold;
 margin-left: 50px;
 margin-right: 50px;
 background-color: #e6f2ff;
 margin-top:150px;
-text-align: center;
+text-align: left;
 text-indent:50px;
 }
 #p1
