@@ -161,5 +161,6 @@ position:relative;
 
 }
 #division{
-  align:center;
+ width:100%;
+ float:left;
 }
