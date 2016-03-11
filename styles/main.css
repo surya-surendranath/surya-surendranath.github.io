@@ -130,10 +130,12 @@ font-size: 20px;
 #section1
 {
   
-float:left;
+float:center;
 font-style: bold;
-text-align: lefts;
+width:100px;
+height:200px;
 background-color: #e6f2ff;
+
 }
 #p1
 {
