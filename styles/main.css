@@ -22,7 +22,8 @@ height:auto;
 
 .dropdown {
     position: relative;
-    
+    display: inline-block;
+    float:left;
 }
 
 .dropdown-content {
@@ -74,6 +75,7 @@ height:auto;
 
 .dropdown:hover .dropdown-content1 {
     display: block;
+float:right;
 }
 
 .dropdown:hover .dropbtn {
