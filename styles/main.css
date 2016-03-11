@@ -36,7 +36,7 @@ height:auto;
 
 .dropdown-content a {
     color: black;
-    padding: -25px 36px;
+    padding: -25px 36px 5px 5px;
     text-decoration: none;
     display: block;
 
