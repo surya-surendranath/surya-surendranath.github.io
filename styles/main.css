@@ -69,6 +69,9 @@ height:auto;
     float:left;
     position:relative;
 }
+#nav1{
+  float:right;
+}
 #section
 {
   background-color: #e6f2ff;
@@ -126,7 +129,7 @@ font-size: 20px;
   padding:20px;
 float:left;
 font-style: bold;
-text-align: left;
+text-align: lefts;
 background-color: #e6f2ff;
 }
 #p1
