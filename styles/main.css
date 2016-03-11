@@ -62,6 +62,9 @@ height:auto;
     padding:5px;
 
 }
+li{
+  list-style-type: none;
+}
 #nav {
     background-color:#BC8F8F;
     height:600px;
