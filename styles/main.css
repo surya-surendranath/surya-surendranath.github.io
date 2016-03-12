@@ -188,10 +188,10 @@ position:relative;
 
    color: red;
     -webkit-animation-name: example; /* Chrome, Safari, Opera */
-    -webkit-animation-duration: 10s; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 5s; /* Chrome, Safari, Opera */
 
     animation-name: example;
-    animation-duration: 10s;
+    animation-duration: 5s;
 }
 
 /* Chrome, Safari, Opera */
