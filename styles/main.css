@@ -189,9 +189,11 @@ position:relative;
    color: #00ff00;
     -webkit-animation-name: example; /* Chrome, Safari, Opera */
     -webkit-animation-duration: 5s; /* Chrome, Safari, Opera */
+-webkit-animation-iteration-count: 5;/* Chrome, Safari, Opera */
 
     animation-name: example;
     animation-duration: 5s;
+animation-iteration-count: 5;
 }
 
 /* Chrome, Safari, Opera */
