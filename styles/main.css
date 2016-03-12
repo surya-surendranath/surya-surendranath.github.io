@@ -64,6 +64,12 @@ height:auto;
 }
 li{
   list-style-type: none;
+  text-decoration: none;
+}
+li a:hover{
+color:yellow;
+text-decoration:underline;
+background-color: transparent;
 }
 #nav {
     background-color:#BC8F8F;
