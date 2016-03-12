@@ -62,12 +62,12 @@ height:auto;
     padding:5px;
 
 }
-li{
+li a:link{
   list-style-type: none;
   text-decoration: none;
 }
 
-.img1 li a:hover{
+#p1 li a:hover{
 color:yellow;
 text-decoration:underline;
 background-color: transparent;
