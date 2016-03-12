@@ -62,7 +62,7 @@ height:auto;
     padding:5px;
 
 }
-li a:link{
+#p1 li a:link{
   list-style-type: none;
   text-decoration: none;
 }
