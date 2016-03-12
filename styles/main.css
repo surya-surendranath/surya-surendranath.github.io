@@ -62,6 +62,9 @@ height:auto;
     padding:5px;
 
 }
+li{
+  list-style-type: none; 
+}
  li a:link{
   list-style-type: none;
   text-decoration: none;
