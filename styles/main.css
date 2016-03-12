@@ -56,9 +56,9 @@ height:auto;
     padding:5px;
 
 }
-#p1.li{
+li{
   list-style-type: none; 
-   color:#00ff00;
+   color:#1aff1a;
 }
  li a:link{
   list-style-type: none;
