@@ -56,19 +56,18 @@ height:auto;
     padding:5px;
 
 }
-li{
+section li{
   list-style-type: none; 
    color:#1aff1a;
-   text-align: center;
- font-size: 30px;
+
 }
- li a:link{
+section li a:link{
   list-style-type: none;
   text-decoration: none;
    color:#00ff00;
 }
 
- li a:hover{
+section li a:hover{
 color:#FFFF00;
 
 background-color: transparent;
@@ -165,7 +164,12 @@ margin-top:100px;
 text-align: center;
 text-indent:50px;
 }
+#p1
+{
+ text-align: center;
+ font-size: 30px;
 
+}
 #sec
 {
 
