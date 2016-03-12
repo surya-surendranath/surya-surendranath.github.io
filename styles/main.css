@@ -186,7 +186,7 @@ position:relative;
 #division1
 {
 
-   color: red;
+   color: #00ff00;
     -webkit-animation-name: example; /* Chrome, Safari, Opera */
     -webkit-animation-duration: 5s; /* Chrome, Safari, Opera */
 
@@ -196,7 +196,7 @@ position:relative;
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes example {
-    0%   {color: red;}
+    0%   {color: #00ff00;}
     25%  {color: yellow;}
     50%  {color: blue;}
     100% {color: green;}
@@ -204,7 +204,7 @@ position:relative;
 
 /* Standard syntax */
 @keyframes example {
-    0%   {color: red;}
+    0%   {color: #00ff00;}
     25%  {color: yellow;}
     50%  {color: blue;}
     100% {color: green;}
