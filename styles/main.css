@@ -126,19 +126,10 @@ margin-left: 50px;
 margin-right: 50px;
 background-color: #e6f2ff;
 margin-top:100px;
-text-align: center;
+text-align: justify;
 text-indent:50px;
 }
-#section3
-{
-  
-float:center;
-font-style: bold;
-background-color: #e6f2ff;
-margin-top:100px;
-text-align: center;
-text-indent:50px;
-}
+
 #p1
 {
  text-align: center;
