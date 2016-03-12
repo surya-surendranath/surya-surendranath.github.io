@@ -66,7 +66,8 @@ li{
   list-style-type: none;
   text-decoration: none;
 }
-li a:hover{
+
+.section li a:hover{
 color:yellow;
 text-decoration:underline;
 background-color: transparent;
