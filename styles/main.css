@@ -67,18 +67,7 @@ body {
     border: none;
     cursor: pointer;
 }
-@media only screen and (max-width: 600px)
-{
 
- .dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 13px;
-    font-size: 12px;
-    border: none;
-    cursor: pointer;
-}
- 
 }
 #header {
     background-color:black;
