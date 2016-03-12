@@ -183,13 +183,13 @@ font-size: 15px;
 position:relative;
 margin-top:40px;
 }
-#new{
+.new{
 clear:both;
 text-align: center;
 font-size: 15px;
 position:relative;
 margin-top:280px;  
-padding-top: 20px;
+
 }
 #division{
  width:100%;
