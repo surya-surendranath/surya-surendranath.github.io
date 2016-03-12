@@ -199,7 +199,7 @@ position:relative;
     0%   {color: #00ff00;}
     25%  {color: yellow;}
     50%  {color: blue;}
-    100% {color: green;}
+    100% {color: red;}
 }
 
 /* Standard syntax */
@@ -207,5 +207,5 @@ position:relative;
     0%   {color: #00ff00;}
     25%  {color: yellow;}
     50%  {color: blue;}
-    100% {color: green;}
+    100% {color: red;}
 }
