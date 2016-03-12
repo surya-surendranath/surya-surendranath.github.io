@@ -17,14 +17,14 @@ height:auto;
     font-size: 16px;
     border: none;
     cursor: pointer;
-    float:left;
+    
 
 }
 
 .dropdown {
     position: relative;
     display: inline-block;
-    float:left;
+    
 
 }
 
