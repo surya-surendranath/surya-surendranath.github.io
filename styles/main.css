@@ -71,7 +71,7 @@ li{
 }
 
  li a:hover{
-color:yellow;
+color:#FFFF00;
 text-decoration:underline;
 background-color: transparent;
 }
