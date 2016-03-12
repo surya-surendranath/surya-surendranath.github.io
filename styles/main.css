@@ -58,6 +58,7 @@ height:auto;
 }
 li{
   list-style-type: none; 
+   color:#00ff00;
 }
  li a:link{
   list-style-type: none;
