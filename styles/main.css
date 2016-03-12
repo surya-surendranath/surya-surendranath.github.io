@@ -62,12 +62,12 @@ height:auto;
     padding:5px;
 
 }
-#p1 li a:link{
+ li a:link{
   list-style-type: none;
   text-decoration: none;
 }
 
-#p1 li a:hover{
+ li a:hover{
 color:yellow;
 text-decoration:underline;
 background-color: transparent;
