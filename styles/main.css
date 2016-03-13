@@ -9,6 +9,7 @@ body {
 
 }
   
+
 .dropbtn {
     background-color: #4CAF50;
     color: white;
@@ -17,7 +18,16 @@ body {
     border: none;
     cursor: pointer;
 }
-
+@media only screen and (max-width: 480px)
+{
+dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px;
+    font-size: 6px;
+    border: none;
+    cursor: pointer;
+}
 
 .dropdown {
     position: relative;
@@ -57,16 +67,7 @@ body {
     background-color: #3e8e41;
      
 }
- @ media only screen and (max-width: 480px){
-dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 6px;
-    font-size: 6px;
-    border: none;
-    cursor: pointer;
-}
-}
+ 
 
 
 #header {
