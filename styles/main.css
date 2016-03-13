@@ -57,7 +57,7 @@ body {
     background-color: #3e8e41;
      
 }
- @media only screen and (max-width: 480px){
+ @ media only screen and (max-width: 480px){
 dropbtn {
     background-color: #4CAF50;
     color: white;
