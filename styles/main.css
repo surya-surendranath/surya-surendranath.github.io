@@ -9,7 +9,7 @@ body {
 
 }
   
-
+ <!-- Dropdown menubar--- -->
 .dropbtn {
     background-color: #4CAF50;
     color: white;
@@ -58,7 +58,9 @@ body {
     background-color: #3e8e41;
      
 }
- 
+  <!-- Dropdown menubar responsive -->
+
+
 @media only screen and (max-width:480px)
 {
 .dropbtn {
@@ -91,6 +93,9 @@ body {
     padding:5px;
 
 }
+
+ <!-- Link list -->
+
  li{
   list-style-type: none; 
    color:#00ff00;
@@ -199,6 +204,7 @@ margin-top:40px;
  width:100%;
  float:left;
 }
+ <!-- Animation -->
 #division1
 {
 
