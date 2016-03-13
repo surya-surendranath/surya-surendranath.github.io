@@ -64,11 +64,10 @@ body {
 dropbtn {
     background-color: #4CAF50;
     color: white;
-    padding:8px;
-    font-size:6px;
+    padding:5px;
+    font-size:8px;
     border: none;
-    cursor: pointer;
-}
+    cursor: pointer;}
 }
 
 #header {
