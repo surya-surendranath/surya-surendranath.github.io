@@ -61,10 +61,11 @@ body {
  
 @media only screen and (max-width:480px)
 {
-dropbtn {
+.dropbtn {
+
     background-color: #4CAF50;
     color: white;
-    padding:5px;
+    padding:8px;
     font-size:8px;
     border: none;
     cursor: pointer;}
