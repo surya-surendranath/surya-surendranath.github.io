@@ -98,8 +98,22 @@ ul#footer-nav li
   display:inline;
 }
 
-#header {
+.page-heading {
     background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+
+}
+.header-menu {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+
+}
+#header{
+  background-color:black;
     color:white;
     text-align:center;
     padding:5px;
@@ -114,7 +128,7 @@ ul#footer-nav li
  height:100px;
  float:left;
  color:#00ff00;
- font-size:+4;
+ font-size:40px;
  text-align: center;
 }
  li{
