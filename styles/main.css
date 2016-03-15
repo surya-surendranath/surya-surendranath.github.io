@@ -97,7 +97,10 @@ ul#footer-nav li
 {
   display:inline;
 }
-
+ul#dropdown-nav li
+{
+  list-style-type: none;
+}
 #header {
     background-color:black;
     color:white;
