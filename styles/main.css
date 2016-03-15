@@ -114,6 +114,8 @@ ul#footer-nav li
  height:100px;
  float:left;
  color:#00ff00;
+ font-size:+4;
+ text-align: center;
 }
  li{
   list-style-type: none; 
