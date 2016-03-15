@@ -93,12 +93,9 @@ body {
     cursor: pointer;}
 }
 
-ul #footer-nav li
+ul#footer-nav li
 {
   display:inline;
-}
-
-
 }
 
 #header {
