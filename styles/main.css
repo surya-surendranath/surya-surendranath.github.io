@@ -97,16 +97,23 @@ ul#footer-nav li
 {
   display:inline;
 }
-ul#dropdown-nav li
-{
-  list-style-type: none;
-}
+
 #header {
     background-color:black;
     color:white;
     text-align:center;
     padding:5px;
 
+}
+#flex-img
+{
+ position:absolute; 
+ top:150px; 
+ left:0px; 
+ width:100%;
+ height:100px;
+ float:left;
+ color:#00ff00;
 }
  li{
   list-style-type: none; 
