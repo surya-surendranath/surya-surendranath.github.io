@@ -153,16 +153,20 @@ list-style-type: none;
 footer.index-footer{
   float:right;
   margin-right: 20px;
+  font-weight: bold;
 }
 footer.blog-footer{
   float:right;
   margin-right: 20px; 
+  font-weight: bold;
 }
 ul#footer-nav li
 {
   display:inline;
 }
+
  /*------ Section---------*/
+
 .section-image
 {
   height:480px;
@@ -174,7 +178,8 @@ position:relative;
 .section-one
 { 
 float:center;
-font-style: bold;
+font-style: italic;
+font-weight: bold;
 margin-left: 40px;
 margin-right: 40px;
 background-color: #e6f2ff;
@@ -212,7 +217,9 @@ margin-top:40px;
  float:left;
  font-size: 15px;
 }
+
  /*------ Animation---------*/
+
 #page-animate
 {
 
