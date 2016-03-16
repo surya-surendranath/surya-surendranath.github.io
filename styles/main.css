@@ -96,14 +96,14 @@ Content
     padding:5px;
 
 }
-.index-header{
+header.index-header{
      background-color:black;
     color:white;
     text-align:center;
     padding:5px;
 
 }
-.blog-header{
+header.blog-header{
      background-color:black;
     color:white;
     text-align:center;
@@ -111,7 +111,7 @@ Content
 
 }
 /*------ Center image---------*/
-#flex-img
+.flex-img
 {
  position:absolute; 
  top:150px; 
@@ -150,7 +150,7 @@ list-style-type: none;
    color:#00ff00;
  }
  /*------ Footer---------*/
-.index-footer{
+footer.index-footer{
   float:right;
   margin-right: 20px;
 }
@@ -193,7 +193,7 @@ margin-top:100px;
 text-align: center;
 text-indent:50px;
 }
-.index-section
+section.index-section
 {
 clear:both;
 text-align: center;
