@@ -1,15 +1,18 @@
+
+
+
+
 body {
 
   background-color:white;
-  background-repeat:no-repeat;
-  background-position: center;
   background-size:cover;
   max-width: 100%;
   height:auto;
 
 }
+/*-------Contents--------*/
   
-
+/*--------Dropdown menu--------*/
 .dropbtn {
     background-color: #4CAF50;
     color: white;
@@ -19,12 +22,10 @@ body {
     cursor: pointer;
 }
 
-
 .dropdown {
     position: relative;
     display: inline-block;
     padding:1px;
-
 }
 
 .dropdown-content {
@@ -58,17 +59,7 @@ body {
     background-color: #3e8e41;
      
 }
-@media only screen and (max-width:300px)
-{
-.dropbtn {
-
-    background-color: #4CAF50;
-    color: white;
-    padding:5px;
-    font-size:6px;
-    border: none;
-    cursor: pointer;}
-}
+/*--------Media Queries--------*/
 @media only screen and (max-width:480px)
 {
 .dropbtn {
@@ -97,28 +88,27 @@ ul#footer-nav li
 {
   display:inline;
 }
-
+/*--------Page Header--------*/
 .page-heading {
-    background-color:black;
-    color:white;
+   
     text-align:center;
     padding:5px;
 
 }
 .header-menu {
-    background-color:black;
-    color:white;
+    
     text-align:center;
     padding:5px;
 
 }
 #header{
-  background-color:black;
+     background-color:black;
     color:white;
     text-align:center;
     padding:5px;
 
 }
+/*--------Image--------*/
 #flex-img
 {
  position:absolute; 
@@ -128,9 +118,10 @@ ul#footer-nav li
  height:100px;
  float:left;
  
- font-size:40px;
+ font-size:50px;
  text-align: center;
 }
+/*--------Navigation list--------*/
  li{
   list-style-type: none; 
    color:#00ff00;
@@ -157,16 +148,18 @@ list-style-type: none;
   text-decoration: none;
    color:#00ff00;
  }
+ /*--------Footer--------*/
 #index-footer{
   float:right;
   margin-right: 20px;
   
 }
+/*--------Section--------*/
 #section
 {
   padding:10px;
 }
-.img1
+.section-image
 {
   height:510px;
   margin-right:200px;
@@ -174,22 +167,6 @@ list-style-type: none;
 float:left;
 position:relative;
 }
-#h2
-{  
-font-style: bold;
-text-align: center;
-float:center;
-margin-bottom: 80px;
-font-size:30px;
-color:#BC8F8F;
-}
-#h3{
-  position:absolute;
-  top:500px;
-  left:0;
-  width:100%;
-}
-
 #section1
 {
   
@@ -235,11 +212,18 @@ font-size: 15px;
 position:relative;
 margin-top:40px;  
 }
-#division{
- width:100%;
- float:left;
+#section-link{
+position:absolute;
+top:150px; 
+left:0px;
+width:100%;
+height:50px; 
+float:left;
+text-align:center;
+font-size: 40px;
 }
-#division1
+/*------  Animation--------*/
+#home-page-animate
 {
 
    color: #00ff00;
