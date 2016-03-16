@@ -7,7 +7,6 @@ body {
   background-size:cover;
   max-width: 100%;
   height:auto;
-
 }
 /*
 Content
@@ -27,15 +26,13 @@ Content
     position: relative;
     display: inline-block;
     padding:1px;
-
 }
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-     
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);  
 }
 
 .dropdown-content a {
@@ -85,10 +82,7 @@ Content
     cursor: pointer;}
 }
 
-ul#footer-nav li
-{
-  display:inline;
-}
+
 /*------ Heading---------*/
 .page-heading {
    
@@ -125,10 +119,10 @@ ul#footer-nav li
  width:100%;
  height:100px;
  float:left;
- font-size:50px;
+ font-size:40px;
  text-align: center;
 }
-/*------ Link---------*/
+/*------ List---------*/
  li{
   list-style-type: none; 
    color:#00ff00;
@@ -159,14 +153,16 @@ list-style-type: none;
 .index-footer{
   float:right;
   margin-right: 20px;
-  
 }
 .blog-footer{
   float:right;
-  margin-right: 20px;
-  
+  margin-right: 20px; 
 }
-
+ul#footer-nav li
+{
+  display:inline;
+}
+ /*------ Section---------*/
 .section-image
 {
   height:480px;
@@ -175,12 +171,8 @@ list-style-type: none;
 float:left;
 position:relative;
 }
-
-
-
 .section-one
-{
-  
+{ 
 float:center;
 font-style: bold;
 margin-left: 40px;
@@ -191,8 +183,7 @@ text-align: center;
 text-indent:50px;
 }
 .blog-section
-{
-  
+{ 
 float:center;
 font-style: bold;
 margin-left: 50px;
@@ -202,12 +193,6 @@ margin-top:100px;
 text-align: center;
 text-indent:50px;
 }
-
-#p1
-{
- text-align: center;
- font-size: 30px;
-}
 .index-section
 {
 clear:both;
@@ -216,17 +201,18 @@ font-size: 15px;
 position:relative;
 margin-top:40px;
 }
-.new{
+.section-link{
 clear:both;
 text-align: center;
-font-size: 15px;
+font-size: 30px;
 position:relative;
 margin-top:40px;  
 }
-#division{
+.section-top{
  width:100%;
  float:left;
 }
+ /*------ Animation---------*/
 #page-animate
 {
 
