@@ -96,14 +96,14 @@ Content
     padding:5px;
 
 }
-header.index-header{
+.index-header{
      background-color:black;
     color:white;
     text-align:center;
     padding:5px;
 
 }
-header.blog-header{
+.blog-header{
      background-color:black;
     color:white;
     text-align:center;
@@ -119,7 +119,7 @@ header.blog-header{
  width:100%;
  height:100px;
  float:left;
- font-size:40px;
+ font-size:30px;
  text-align: center;
 }
 /*------ List---------*/
@@ -150,7 +150,7 @@ list-style-type: none;
    color:#00ff00;
  }
  /*------ Footer---------*/
-footer.index-footer{
+.index-footer{
   float:right;
   margin-right: 20px;
 }
@@ -193,7 +193,7 @@ margin-top:100px;
 text-align: center;
 text-indent:50px;
 }
-section.index-section
+.index-section
 {
 clear:both;
 text-align: center;
