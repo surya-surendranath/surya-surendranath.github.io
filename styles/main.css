@@ -109,6 +109,13 @@ ul#footer-nav li
     padding:5px;
 
 }
+.blog-header{
+     background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+
+}
 /*------ Center image---------*/
 #flex-img
 {
@@ -154,7 +161,11 @@ list-style-type: none;
   margin-right: 20px;
   
 }
-
+.blog-footer{
+  float:right;
+  margin-right: 20px;
+  
+}
 
 .section-image
 {
