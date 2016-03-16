@@ -1,6 +1,4 @@
-
-
-
+/*------ Global---------*/
 body {
 
   background-color:white;
@@ -11,7 +9,10 @@ body {
   height:auto;
 
 }
-  
+/*
+Content
+*/
+/*------ Dropdown menu---------*/
 
 .dropbtn {
     background-color: #4CAF50;
@@ -22,14 +23,12 @@ body {
     cursor: pointer;
 }
 
-
 .dropdown {
     position: relative;
     display: inline-block;
     padding:1px;
 
 }
-
 .dropdown-content {
     display: none;
     position: absolute;
@@ -44,7 +43,6 @@ body {
     padding: 3px 5px;
     text-decoration: none;
     display: block;
-   
 }
 
 .dropdown-content a:hover {
@@ -61,17 +59,8 @@ body {
     background-color: #3e8e41;
      
 }
-@media only screen and (max-width:300px)
-{
-.dropbtn {
+/*------ Media Queries---------*/
 
-    background-color: #4CAF50;
-    color: white;
-    padding:5px;
-    font-size:6px;
-    border: none;
-    cursor: pointer;}
-}
 @media only screen and (max-width:480px)
 {
 .dropbtn {
@@ -100,7 +89,7 @@ ul#footer-nav li
 {
   display:inline;
 }
-
+/*------ Heading---------*/
 .page-heading {
    
     text-align:center;
@@ -113,13 +102,14 @@ ul#footer-nav li
     padding:5px;
 
 }
-#header{
+.index-header{
      background-color:black;
     color:white;
     text-align:center;
     padding:5px;
 
 }
+/*------ Center image---------*/
 #flex-img
 {
  position:absolute; 
@@ -128,10 +118,10 @@ ul#footer-nav li
  width:100%;
  height:100px;
  float:left;
- 
  font-size:50px;
  text-align: center;
 }
+/*------ Link---------*/
  li{
   list-style-type: none; 
    color:#00ff00;
@@ -158,18 +148,17 @@ list-style-type: none;
   text-decoration: none;
    color:#00ff00;
  }
-#index-footer{
+ /*------ Footer---------*/
+.index-footer{
   float:right;
   margin-right: 20px;
   
 }
-#section
+
+
+.section-image
 {
-  padding:10px;
-}
-.img1
-{
-  height:510px;
+  height:480px;
   margin-right:200px;
   width:100%;
 float:left;
@@ -178,7 +167,7 @@ position:relative;
 
 
 
-#section1
+.section-one
 {
   
 float:center;
@@ -190,7 +179,7 @@ margin-top:50px;
 text-align: center;
 text-indent:50px;
 }
-#section2
+.blog-section
 {
   
 float:center;
@@ -208,7 +197,7 @@ text-indent:50px;
  text-align: center;
  font-size: 30px;
 }
-#sec
+.index-section
 {
 clear:both;
 text-align: center;
@@ -227,7 +216,7 @@ margin-top:40px;
  width:100%;
  float:left;
 }
-#division1
+#page-animate
 {
 
    color: #00ff00;
