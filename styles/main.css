@@ -96,7 +96,7 @@ Content
     padding:5px;
 
 }
-header.index-header{
+.index-header{
      background-color:black;
     color:white;
     text-align:center;
@@ -204,13 +204,13 @@ margin-top:40px;
 .section-link{
 clear:both;
 text-align: center;
-font-size: 15px;
 position:relative;
 margin-top:40px;  
 }
 .section-top{
  width:100%;
  float:left;
+ font-size: 15px;
 }
  /*------ Animation---------*/
 #page-animate
