@@ -96,7 +96,7 @@ Content
     padding:5px;
 
 }
-.index-header{
+header.index-header{
      background-color:black;
     color:white;
     text-align:center;
@@ -204,7 +204,7 @@ margin-top:40px;
 .section-link{
 clear:both;
 text-align: center;
-font-size: 30px;
+font-size: 15px;
 position:relative;
 margin-top:40px;  
 }
