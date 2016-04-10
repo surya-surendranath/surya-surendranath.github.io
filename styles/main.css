@@ -182,21 +182,30 @@ font-style: italic;
 font-weight: bold;
 margin-left: 40px;
 margin-right: 40px;
-background-color: #e6f2ff;
+background-color: #29a3a3;
 margin-top:50px;
 text-align: center;
 text-indent:50px;
+padding-top: 30px;
+padding-bottom: 50px;
 }
 .blog-section
 { 
 float:center;
-font-style: bold;
+font-style: italic;
 margin-left: 50px;
 margin-right: 50px;
 background-color: #e6f2ff;
-margin-top:100px;
+margin-top:50px;
 text-align: center;
 text-indent:50px;
+background: url("../images/bg.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+padding-top:5px;
+padding-bottom: 45px;
+
+
 }
 .index-section
 {
@@ -229,6 +238,9 @@ width:100%;
   width:50;
   height:50;
 
+}
+#header1{
+  font-size:40px;
 }
 
  /*------ Animation---------*/
